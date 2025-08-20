@@ -1,0 +1,19 @@
+# Runtime and temporary files
+ide/
+shell-snapshots/
+
+# Conversation history (potentially sensitive data)
+projects/
+
+# Cache and telemetry
+statsig/
+
+# Session state
+todos/
+
+# Local-only variants (if you create them)
+settings.local.json
+CLAUDE.local.md
+
+# OS files
+.DS_Store
